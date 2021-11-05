@@ -1,0 +1,10 @@
+Project -- Folder containing all files related to my education in OpenFOAM
+
+Andrew Vogel
+Nov 5, 2021
+
+Projects:
+11/5/21 -- Elbow cases
+	A simple study using icoFoam of a curved elbow with two inlets. Develops practice
+	with meshing, mesh refinement, workflow and pre- and post-processing for a 
+	simple incompressible, laminar case
